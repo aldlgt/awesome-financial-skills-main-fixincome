@@ -1,0 +1,162 @@
+{
+  "global": {
+    "stars": 3,
+    "date_from": null,
+    "date_to": null,
+    "pushed_within_days": 730,
+    "max_fetch_per_topic": 100,
+    "target_per_topic": 10,
+    "min_score": 7.0,
+    "require_finance_hit": true
+  },
+  "topics": [
+    {
+      "id": "credit_bond",
+      "name": "信用债研究",
+      "category": "credit-bond",
+      "search_queries": [
+        "信用债 OR \"credit bond\" OR \"credit spread\" OR 信用利差",
+        "城投债 OR 城投 OR lgfv OR \"local government financing\"",
+        "\"bond default\" OR 债券违约 OR \"rating downgrade\" OR 评级下调",
+        "\"credit analysis\" OR 信用研究 OR 信用分析 OR 信用评级",
+        "二永债 OR 二级资本债 OR 永续债 OR \"tier 2 bond\"",
+        "化债 OR 债务化解 OR \"distressed debt\" OR 中资美元债"
+      ],
+      "topic_signals": [
+        "信用债", "信用利差", "信用研究", "信用分析", "信用风险", "信用评级",
+        "城投债", "城投", "产业债", "地产债", "二永债", "二级资本债", "永续债",
+        "主体评级", "债项评级", "评级下调", "债券违约", "违约", "化债", "债务化解",
+        "隐含评级", "中债", "中资美元债", "信用资质", "偿债能力",
+        "lgfv", "credit bond", "credit spread", "bond default", "rating downgrade",
+        "credit analysis", "credit rating", "distressed debt", "fixed income credit"
+      ]
+    },
+    {
+      "id": "rates_liquidity",
+      "name": "利率与流动性",
+      "category": "rates-liquidity",
+      "search_queries": [
+        "利率债 OR 国债 OR 国开债 OR \"government bond\"",
+        "资金面 OR 流动性 OR 超储 OR 公开市场操作",
+        "\"monetary policy\" OR 货币政策 OR 降准 OR 降息",
+        "同业存单 OR 票据利率 OR dr007 OR r007",
+        "\"yield curve\" OR 收益率曲线 OR 期限利差 OR 国债期货"
+      ],
+      "topic_signals": [
+        "利率债", "国债", "国开债", "地方债", "政策性金融债", "收益率曲线",
+        "期限利差", "资金面", "流动性", "超储", "公开市场", "逆回购", "买断式逆回购",
+        "货币政策", "降准", "降息", "同业存单", "存单", "票据", "国债期货",
+        "treasury", "government bond", "yield curve", "monetary policy", "liquidity",
+        "omo", "mlf", "lpr", "dr007", "r007", "repo rate", "interbank", "bond futures"
+      ]
+    },
+    {
+      "id": "fi_strategy",
+      "name": "固收策略",
+      "category": "fi-strategy",
+      "search_queries": [
+        "久期 OR duration OR 骑乘 OR \"roll down\"",
+        "\"carry trade\" OR 杠杆套息 OR 哑铃策略 OR 子弹策略",
+        "\"bond strategy\" OR 债券策略 OR 债市策略 OR 固收策略",
+        "利差分位数 OR 波段交易 OR barbell OR 信用下沉"
+      ],
+      "topic_signals": [
+        "久期", "duration", "骑乘", "roll down", "杠杆套息", "carry",
+        "哑铃", "barbell", "子弹策略", "bullet strategy", "利差分位数", "波段交易",
+        "债券策略", "债市策略", "固收策略", "配置策略", "收益率曲线策略",
+        "信用下沉", "拉久期", "套息", "bond strategy", "fixed income strategy",
+        "yield curve strategy", "carry trade"
+      ]
+    },
+    {
+      "id": "institution_behavior",
+      "name": "机构行为",
+      "category": "institution-behavior",
+      "search_queries": [
+        "债基 OR 债券基金 OR \"bond fund\" OR 基金久期",
+        "银行理财 OR 理财规模 OR 破净率 OR 理财赎回",
+        "托管数据 OR 中债登 OR 上清所 OR 持仓分析",
+        "机构行为 OR 净买入 OR 基金持仓 OR 重仓券"
+      ],
+      "topic_signals": [
+        "债基", "债券基金", "基金久期", "银行理财", "理财规模", "破净率",
+        "理财赎回", "托管数据", "中债登", "上清所", "持仓", "重仓券",
+        "净买入", "机构行为", "申赎", "赎回", "摊余成本", "固收+",
+        "bond fund", "fund duration", "wealth management", "holdings", "redemption"
+      ]
+    },
+    {
+      "id": "bond_data",
+      "name": "固收数据",
+      "category": "bond-data",
+      "search_queries": [
+        "中债 OR chinabond OR 中债估值 OR 债券估值",
+        "债券数据 OR \"bond data\" OR \"bond api\" OR 债市数据",
+        "akshare OR tushare OR 同花顺 OR 万得",
+        "托管量 OR cfets OR 外汇交易中心 OR 债券行情"
+      ],
+      "topic_signals": [
+        "中债", "chinabond", "中债估值", "债券估值", "债券数据", "债市数据",
+        "债券行情", "行情数据", "收益率数据", "利差数据", "托管量",
+        "bond data", "bond api", "akshare", "tushare", "baostock",
+        "同花顺", "ifind", "万得", "cfets", "外汇交易中心"
+      ]
+    },
+    {
+      "id": "convertible",
+      "name": "可转债",
+      "category": "convertible",
+      "search_queries": [
+        "可转债 OR 转债 OR \"convertible bond\"",
+        "转股溢价率 OR 纯债溢价率 OR 强赎 OR 下修",
+        "转债策略 OR 转债估值 OR 双低 OR 条款博弈"
+      ],
+      "topic_signals": [
+        "可转债", "转债", "转股溢价率", "纯债溢价率", "强赎", "下修",
+        "回售", "转债估值", "转债策略", "双低", "条款博弈", "正股",
+        "convertible bond", "cb arbitrage"
+      ]
+    }
+  ],
+  "finance_signals": [
+    "fixed income", "fixed-income", "bond", "treasury", "yield", "credit",
+    "duration", "spread", "interbank", "interest rate",
+    "finance", "financial", "investment", "securities",
+    "固收", "债券", "债市", "国债", "利率", "信用", "城投", "利差", "收益率",
+    "债基", "理财", "资管", "研报", "宏观", "货币政策", "流动性",
+    "金融", "投资", "证券", "基金"
+  ],
+  "skill_signals": [
+    "skill", "agent", "mcp", "notebook", "jupyter", "template", "playbook", "workflow",
+    "framework", "toolkit", "pipeline", "research", "analysis", "backtest", "strategy",
+    "方法论", "模板", "指标", "knowledge", "rag", "skill.md", "model", "agent skill",
+    "agent-skills"
+  ],
+  "blacklist_keywords": [
+    "new grad", "new-grad", "internship", "internships", "jobs", "job board", "hiring",
+    "校招", "社招", "招聘", "简历", "resume", "leetcode",
+    "game engine", "gaming", "minecraft", "genshin", "原神", "galgame", "emulator",
+    "nintendo", "ryujinx", "steam", "unity game", "unreal engine",
+    "keygen", "crack", "spoofer", "njrat", "free download",
+    "quantization", "quantized", "llm quantization", "model quantization",
+    "quantum", "quantum computing", "quantum toolkit", "qubit", "qecc", "量子计算", "量子通信",
+    "movie", "电影", "music player", "novel", "小说", "manga", "漫画", "anime", "短剧",
+    "管理后台", "后台管理", "rbac", "多租户", "商城", "电商", "进销存",
+    "homework", "assignment", "coursework", "课程设计", "毕业设计", "高考真题",
+    "firmware", "固件", "嵌入式", "无人机", "fpga", "verilog", "pcb",
+    "penetration test", "pentest", "vulnerability scanner", "exploit", "红队", "waf bypass",
+    "dotfiles", "clash tunnel", "vpn client", "占星", "astrology",
+    "casino", "gambling", "betting", "lottery", "poker bot", "blackjack", "roulette",
+    "赌博", "彩票", "博彩", "stock photo", "warehouse inventory",
+    "portfolio website", "personal portfolio", "design portfolio", "作品集",
+    "hackathon listing", "tournament draw", "npc agent", "arxiv daily", "cv-arxiv",
+    "credit card", "fico", "lending club", "lendingclub", "home credit", "german credit",
+    "bank marketing", "loan approval", "loan prediction", "consumer credit",
+    "consumer lending", "personal loan", "payday", "microloan", "microcredit",
+    "信用卡", "房贷", "车贷", "消费贷", "小额贷", "网贷", "校园贷", "现金贷", "消费金融",
+    "bonding curve", "defi", "nft", "cryptocurrency", "bitcoin", "ethereum",
+    "web3", "airdrop", "memecoin", "代币", "挖矿",
+    "options trading", "iron condor", "vertical spread", "debit spread",
+    "call spread", "put spread", "0dte", "spxl", "wheel strategy", "spread plan"
+  ]
+}

@@ -1,0 +1,318 @@
+[
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "hard_negative:量子计算",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "Dujltqzv/Some-Many-Books"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:简历",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "cirosantilli/cirosantilli"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:spread plan",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "stonkyoloer/News_Spread_Engine"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_topic_signal",
+    "score": 25.5,
+    "full_name": "Wind-Alice/AliceMarket"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_topic_signal",
+    "score": 11.0,
+    "full_name": "zhx19940113/Android_jdy"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 0.0,
+    "full_name": "itgoyo/telegram-money-making"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 0.0,
+    "full_name": "MrWangGang/remote_sensing_segment"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 0.0,
+    "full_name": "MrWangGang/music_classify"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:spxl",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "vganpath/tearcreditspreadstrategy"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:options trading",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "KamranAliOfficial/ibkr-options-webhook-trader"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 0.0,
+    "full_name": "Shen-xn/GA_factor_mining"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_topic_signal",
+    "score": 3.5,
+    "full_name": "Qqqqq-co/Bayesian-Optimized-LSTM-GPR-Hybrid-Model-for-New-Energy-Vehicle-Sales-Forecasting"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 0.0,
+    "full_name": "tkc123-gs/CALIGO-GS-Low-Light-3DGS"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_topic_signal",
+    "score": 2.5,
+    "full_name": "gzu-liyujiang/AndroidPicker"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:招聘",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "cirosantilli/china-dictatorship"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:招聘",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "gege-circle/.github"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:招聘",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "cirosantilli/china-dictatroship-7"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:招聘",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "mRFWq7LwNPZjaVv5v6eo/cihna-dictattorshrip-8"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:商城",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "small-bears/garbage"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:后台管理",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "small-bears/personnel-"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:商城",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "small-bears/garbages"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:后台管理",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "666bears/GraduationDesigns"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 1.0,
+    "full_name": "alchaincyf/deepseek-influence-report"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:管理后台",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "erikwang2013/property-management-platform"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_topic_signal",
+    "score": 3.5,
+    "full_name": "nuwa-skills/buffett-skill"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 0.0,
+    "full_name": "Fankekeke/move_place_cos_public"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 0.0,
+    "full_name": "Fankekeke/delivery_order_cos"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:毕业设计",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "domiegg/springboot-vue2610"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_topic_signal",
+    "score": 4.5,
+    "full_name": "liangdabiao/stock-deep-research-skill"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:简历",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "wanghongqiang1027/zhipin-ai-helper"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:商城",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "CARROTLIKE/springboot_violation_waste_shop"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 1.0,
+    "full_name": "NicoleDyson/LGFVM-UNet"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:招聘",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "tars1230/gem-career-finder"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 0.0,
+    "full_name": "Cloutains017/My-Journey"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 1.0,
+    "full_name": "962753401-cloud/HealthBench-Arena"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_topic_signal",
+    "score": 8.0,
+    "full_name": "fulehan/FinLora-RAG-Real-time-Financial-Risk-Analysis-with-LoRA-tuned-Llama-3-SEC-RAG"
+  },
+  {
+    "_reject": true,
+    "score": 0.0,
+    "rejected": true,
+    "reject_reason": "blacklist:管理后台",
+    "finance_hits": [],
+    "topic_hits": [],
+    "skill_hits": [],
+    "full_name": "pudaa/MemoryServerTTS"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 2.0,
+    "full_name": "yingxiaotao0827/3_tax_risk_agent_codex"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 1.0,
+    "full_name": "666ghj/BettaFish"
+  },
+  {
+    "_reject": true,
+    "reject_reason": "no_finance_signal",
+    "score": 1.0,
+    "full_name": "mpquant/MyTT"
+  }
+]

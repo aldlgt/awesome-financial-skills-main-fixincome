@@ -1,0 +1,76 @@
+[
+  {
+    "full_name": "SherryCW/zhishishinei-political-economy",
+    "url": "https://github.com/SherryCW/zhishishinei-political-economy",
+    "desc": "基于《置身事内》的 Codex Skill，用于分析中国地方政府、财政体制、土地金融、城投债务、产业政策与经济发展。",
+    "stars": 4,
+    "updated_at": "2026-09-14T03:34:38+00:00",
+    "language": "Python",
+    "fork": false,
+    "archived": false,
+    "topics": [],
+    "topic_id": "credit_bond",
+    "topic_name": "信用债研究",
+    "category": "credit-bond",
+    "score": 16.52,
+    "finance_hits": [
+      "城投",
+      "金融"
+    ],
+    "topic_hits": [
+      "城投债",
+      "城投"
+    ],
+    "skill_hits": [
+      "skill"
+    ]
+  },
+  {
+    "full_name": "ambropo/InternationalCreditChannel",
+    "url": "https://github.com/ambropo/InternationalCreditChannel",
+    "desc": "Replication codes for Cesa-Bianchi and Sokol (2022) \"Financial Shocks, Credit Spreads, and the International Credit Channel,\" Journal of International Economics",
+    "stars": 7,
+    "updated_at": "2026-04-13T16:37:49+00:00",
+    "language": "MATLAB",
+    "fork": false,
+    "archived": false,
+    "topics": [],
+    "topic_id": "credit_bond",
+    "topic_name": "信用债研究",
+    "category": "credit-bond",
+    "score": 13.54,
+    "finance_hits": [
+      "credit",
+      "spread",
+      "financial"
+    ],
+    "topic_hits": [
+      "credit spread"
+    ],
+    "skill_hits": []
+  },
+  {
+    "full_name": "tyeek/tydocs",
+    "url": "https://github.com/tyeek/tydocs",
+    "desc": "这是我的个人博客网站项目，内容极为丰富，金融领域从市场分析、风险管理，到CFA、FRM备考知识应有尽有，技术板块则囊括Python编程与金融机器学习、量化开发等实用技能；项目还十分注重实操，在量化项目研究和实战项目集中，通过股票均线突破选股法、绿色债券信用评级系统等案例，为学习者提供理论到代码实现的全流程指导。",
+    "stars": 3,
+    "updated_at": "2026-02-14T23:11:18+00:00",
+    "language": "HTML",
+    "fork": false,
+    "archived": false,
+    "topics": [],
+    "topic_id": "credit_bond",
+    "topic_name": "信用债研究",
+    "category": "credit-bond",
+    "score": 13.52,
+    "finance_hits": [
+      "债券",
+      "信用",
+      "金融"
+    ],
+    "topic_hits": [
+      "信用评级"
+    ],
+    "skill_hits": []
+  }
+]
